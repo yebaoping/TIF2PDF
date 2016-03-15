@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIF2PDF", "TIF2PDF\TIF2PDF.csproj", "{11C85E03-CDB9-4873-8D9F-D8C2D65D1093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTIF2PDF", "TestTIF2PDF\TestTIF2PDF.csproj", "{9F18E1DC-DB81-4D47-8FE5-A3B992968A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C85E03-CDB9-4873-8D9F-D8C2D65D1093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C85E03-CDB9-4873-8D9F-D8C2D65D1093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C85E03-CDB9-4873-8D9F-D8C2D65D1093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C85E03-CDB9-4873-8D9F-D8C2D65D1093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F18E1DC-DB81-4D47-8FE5-A3B992968A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F18E1DC-DB81-4D47-8FE5-A3B992968A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F18E1DC-DB81-4D47-8FE5-A3B992968A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F18E1DC-DB81-4D47-8FE5-A3B992968A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

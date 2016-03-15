@@ -1,0 +1,15 @@
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\PDF\Readme.txt
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\TIF\Readme.txt
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\TestTIF2PDF.exe.config
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\TestTIF2PDF.exe
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\TestTIF2PDF.pdb
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\TIF2PDF.dll
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\itextsharp.dll
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\TIF2PDF.pdb
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\bin\Release\TIF2PDF.xml
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\obj\Release\TestTIF2PDF.csprojResolveAssemblyReference.cache
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\obj\Release\TestTIF2PDF.exe
+E:\Code\C#\Temp\TIF2PDF\TestTIF2PDF\obj\Release\TestTIF2PDF.pdb
+E:\Code\C#\Project\TIF2PDF\TestTIF2PDF\bin\Release\TestTIF2PDF.exe.config
+E:\Code\C#\Project\TIF2PDF\TestTIF2PDF\obj\Release\TestTIF2PDF.exe
+E:\Code\C#\Project\TIF2PDF\TestTIF2PDF\obj\Release\TestTIF2PDF.pdb

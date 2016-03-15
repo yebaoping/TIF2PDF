@@ -1,0 +1,8 @@
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Release\TIF2PDF.XML
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Release\TIF2PDF.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Release\TIF2PDF.pdb
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Release\iTextAsian.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Release\iTextAsianCmaps.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Release\itextsharp.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\obj\Release\TIF2PDF.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\obj\Release\TIF2PDF.pdb

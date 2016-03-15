@@ -1,0 +1,9 @@
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Debug\TIF2PDF.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Debug\TIF2PDF.pdb
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Debug\iTextAsian.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Debug\iTextAsianCmaps.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Debug\itextsharp.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\obj\Debug\TIF2PDF.csprojResolveAssemblyReference.cache
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\obj\Debug\TIF2PDF.dll
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\obj\Debug\TIF2PDF.pdb
+E:\Code\C#\Temp\TIF2PDF\TIF2PDF\bin\Debug\TIF2PDF.XML
